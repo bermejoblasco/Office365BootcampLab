@@ -1,6 +1,8 @@
 1 - Crear una aplicación MVC en VS2017
-    (..Media\SSO\VS2017MVC1.png)
-    (..Media\SSO\VS2017MVC2.png)
+
+    ![Create function app in the Azure portal](../../../Media/SSO/VS2017MVC1.png)
+    
+    ![Create function app in the Azure portal2](../../../Media/SSO/VS2017MVC2.png)
 
 2 - Una vez creada, nos aparecerá una pantalla por defecto:
     * Seleccionar Connected Services
