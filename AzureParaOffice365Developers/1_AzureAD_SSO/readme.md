@@ -1,7 +1,9 @@
 1 - Crear una aplicación MVC en VS2017
 
     ![alt text](/AzureParaOffice365Developers/Media/SSO/VS2017MVC1.png)
-	![alt text2](/AzureParaOffice365Developers/Media/SSO/VS2017MVC2.png)
+    
+    
+     ![alt text2](/AzureParaOffice365Developers/Media/SSO/VS2017MVC2.png)
 
 2 - Una vez creada, nos aparecerá una pantalla por defecto:
     * Seleccionar Connected Services
