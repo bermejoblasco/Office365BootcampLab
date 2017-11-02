@@ -1,5 +1,4 @@
 1 - Crear una aplicación MVC en VS2017
-[1-AzureADSSO](/AzureParaOffice365Developers/1_AzureAD_SSO/readme.md)  
     ![alt text](/AzureParaOffice365Developers/Media/SSO/VS2017MVC1.png)
     [Create function app in the Azure portal](.../Media/SSO/VS2017MVC1.png)
     
