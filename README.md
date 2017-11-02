@@ -26,8 +26,8 @@ Que es necesario:
 
 This hands-on lab includes the following exercises:
 - [1-AzureADSSO](/AzureParaOffice365Developers/1_AzureAD_SSO/readme.md)  
-- [2-Creación infraestructura Azure](/AzureParaOffice365Developers/2 - Creación infraestructura Azure/readme.md)
-- [3-Creación entorno Sharepoint](/AzureParaOffice365Developers/3 - Creación entorno Sharepoint/readme.md)
-- [4-Creación Lógic App](/AzureParaOffice365Developers/4 - Creación Lógic App/readme.md)
-- [5-Aplicación móvil](/AzureParaOffice365Developers/5 - Aplicación móvil/readme.md)
-- [6-Creación AzureFunction y envío Push](/AzureParaOffice365Developers/6 - Creación AzureFunction y envío Push/readme.md)
+- [2-Creación infraestructura Azure](/AzureParaOffice365Developers/2_Creación_infraestructura_Azure/readme.md)
+- [3-Creación entorno Sharepoint](/AzureParaOffice365Developers/3_Creación_entorno_Sharepoint/readme.md)
+- [4-Creación Lógic App](/AzureParaOffice365Developers/4_Creación_Logic_App/readme.md)
+- [5-Aplicación móvil](/AzureParaOffice365Developers/5_Aplicación_mobile/readme.md)
+- [6-Creación AzureFunction y envío Push](/AzureParaOffice365Developers/6_Creación_AzureFunction_y_envío_Push/readme.md)
