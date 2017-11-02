@@ -1,6 +1,6 @@
 1 - Crear una aplicación MVC en VS2017
 
-    ![alt text](../Media/SSO//VS2017MVC1.png)
+    ![alt text](./Media/SSO//VS2017MVC1.png)
     [Create function app in the Azure portal](.../Media/SSO/VS2017MVC1.png)
     
     [Create function app in the Azure portal2](./Media/SSO/VS2017MVC2.png)
