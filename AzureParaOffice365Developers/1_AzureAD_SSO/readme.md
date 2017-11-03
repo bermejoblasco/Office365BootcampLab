@@ -6,7 +6,8 @@
 2 - Una vez creada, nos aparecerá una pantalla por defecto:
     * Seleccionar Connected Services
     * Seleccionar Authentication wiht Azure Active Directory    
-    ![alt text3](/AzureParaOffice365Developers/Media/SSO/VS2017MVC33.png)   	
+     
+     ![alt text3](/AzureParaOffice365Developers/Media/SSO/VS2017MVC3.png)
 
 3 - Informar los campos y seguir las inidcaciones. Imporatnte: Añadir el Teneant a mano! xxx.onmicrosoft.com.
 
