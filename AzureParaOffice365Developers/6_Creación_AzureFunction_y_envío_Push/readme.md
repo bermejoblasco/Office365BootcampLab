@@ -27,8 +27,7 @@
         }
 
 4 - Ir a aplpicationSetting de la function
-        ![alt text](/AzureParaOffice365Developers/Media/AzureFunction/AppSettings.png) 
-        
+        ![alt text](/AzureParaOffice365Developers/Media/AzureFunction/AppSettings.png)         
         * Añadir la cadena de conexión del NotificationHub. Ir al servicio de notification hub, keys y copiar la connectionString.
       Añadirla con el nombre de MyHubConnectionString        
 
@@ -48,7 +47,6 @@
                 }        
 
 6 - Vamos a la solución de VS. La ejectuamos, ya sea con el emulador o en un mobile.
-
         * Cuando la ejecutemso nos debería aparecer los elementos que tenemos en CosmosDB.
 
 7 - Para validar que todo ha ido ok, insertamos un elemento en la lista de sharepoint y nos tendría que llegar una notificación Push al emulador o al mobile.
