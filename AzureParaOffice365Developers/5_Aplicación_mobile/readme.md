@@ -17,7 +17,7 @@ Ara falta el nombre del package. Boton derecho en el proyecto android --> Propie
     ![alt text](/AzureParaOffice365Developers/Media/MobileApp/Firebase1.png)         
 
 3 - En la consola Firebase, haga clic en el engranaje de su proyecto y, después, haga clic en Project Settings(Configuración del proyecto).
-    ![alt text](/AzureParaOffice365Developers/Media/MobileApp/Firebase2.png)
+![alt text](/AzureParaOffice365Developers/Media/MobileApp/Firebase2.png)
     
 4 - Haga clic en la pestaña Cloud Messaging (Mensajería de nube) en la configuración del proyecto y copie el valor de Server key (Clave del servidor) y Sender ID (Identificador del remitente). Estos valores se usarán más adelante para configurar la directiva de acceso del centro de notificaciones y el controlador de notificaciones en la aplicación.
 
@@ -38,6 +38,7 @@ Ara falta el nombre del package. Boton derecho en el proyecto android --> Propie
 /* Datos CosmosDB */
 
 1 - En el proyecto portable ir app.config y configrar los datos
+
     public class AppSettings
     {
         public static readonly string EndpointUri = "https://xxx.documents.azure.com:443/";
