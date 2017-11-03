@@ -1,5 +1,7 @@
 1 - Entramos en el portal de Azure y vamos al servicio CosmosDB y seleccionamos la opción Add Azure Function del menu.
+
 2 - Seleccionar por defecto los valores que os aparezcan
+
 3 - Ir a la function que os ha creado y añadir el siguiente código:
 
         #r "Microsoft.Azure.Documents.Client"
@@ -25,13 +27,13 @@
         }
 
 4 - Ir a aplpicationSetting de la function
-        (..Media\Azure Function\AppSettings.png)
+        ![alt text](/AzureParaOffice365Developers/Media/AzureFunction/AppSettings.png)         
         * Añadir la cadena de conexión del NotificationHub. Ir al servicio de notification hub, keys y copiar la connectionString.
       Añadirla con el nombre de MyHubConnectionString        
 
 5 - Configuramos el Notification Hub en la function
         * Ir a Integrate - Advance Settings
-                (..Media\Azure Function\AdvanceSettings.png)
+        ![alt text](/AzureParaOffice365Developers/Media/AzureFunction/AdvanceSettings.png)         
         * Añadir
                 {
                         "name": "notification",
