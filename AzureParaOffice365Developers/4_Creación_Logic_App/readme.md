@@ -13,8 +13,7 @@
 5 - Next Step - Choose an action. Buscar TextAnalytics y seleccionar.
         * Seleccionar DetectSentiment Action
         * Ir al portal de Azure al servico de TextAnalytics creado en el punto 2 para obtener los datos de conexión.
-         ![alt text](/AzureParaOffice365Developers/Media/LogicApp/TextAnalytic.png) 
-                
+         ![alt text](/AzureParaOffice365Developers/Media/LogicApp/TextAnalytic.png)                
           A parte os hará falta el endpoint que se encuentra en overview
 
 6 - Cuando entreis en el textbox Text os aparecerán todas las propiedades de la lista de sharpoint seleccionar: Title
@@ -28,12 +27,10 @@
 
 8 - Next Step - Add a condition:           
         * Seleccionamos el Score que nos ha devuelto el Cognitive Servies y actualizaremos el campo SI/NO de la lista de Sharepoint viendo si el campo es mayor o igual a 0.5 (será si) o menos a 0.5 que será No
-        ![alt text](/AzureParaOffice365Developers/Media/LogicApp/Conditional.png) 
-                
+        ![alt text](/AzureParaOffice365Developers/Media/LogicApp/Conditional.png)                
         * Ahora en Yes añadimos la acción de Update Document de Sharepoint. Seleccionamos Sharepoint y Update Item.
         * Rellenlamos los datos de conexión y en el campo EsBueno ponemos Si, en Id y title seleccionamos los valores que nos vienen del inicio de Sharepoint
-        ![alt text](/AzureParaOffice365Developers/Media/LogicApp/UpdateSharepoint.png) 
-                
+        ![alt text](/AzureParaOffice365Developers/Media/LogicApp/UpdateSharepoint.png)                
         * Hacer lo mismo con el No pero poniendo en el campo EsBueno No
 
 9 - Ya tenemos nuestra LogicApp, le damos a Save and Run arriba de todo.
